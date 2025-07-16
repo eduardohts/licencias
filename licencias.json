@@ -1,31 +1,31 @@
 {
   "licencias": [
     {
-      "codigo": "YAPE-2024-PREMIUM-001",
+      "codigo": "YAPE11",
       "activo": true,
       "descripcion": "Licencia Premium",
       "fecha_expiracion": "2025-12-31"
     },
     {
-      "codigo": "YAPE-2024-BASIC-002",
+      "codigo": "YAPE32",
       "activo": true,
       "descripcion": "Licencia Básica",
       "fecha_expiracion": "2024-12-31"
     },
     {
-      "codigo": "YAPE-2024-TRIAL-003",
+      "codigo": "YAPE12",
       "activo": true,
       "descripcion": "Licencia de Prueba",
       "fecha_expiracion": "2024-06-30"
     },
     {
-      "codigo": "DEMO-2024-FREE",
+      "codigo": "YAPE34",
       "activo": true,
       "descripcion": "Demo Gratuita",
       "fecha_expiracion": "2024-12-31"
     },
     {
-      "codigo": "YAPE-2024-ENTERPRISE-004",
+      "codigo": "YAPE38",
       "activo": false,
       "descripcion": "Licencia Empresarial (Desactivada)",
       "fecha_expiracion": "2025-12-31"
