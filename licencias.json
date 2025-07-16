@@ -1,0 +1,36 @@
+{
+  "licencias": [
+    {
+      "codigo": "YAPE-2024-PREMIUM-001",
+      "activo": true,
+      "descripcion": "Licencia Premium",
+      "fecha_expiracion": "2025-12-31"
+    },
+    {
+      "codigo": "YAPE-2024-BASIC-002",
+      "activo": true,
+      "descripcion": "Licencia Básica",
+      "fecha_expiracion": "2024-12-31"
+    },
+    {
+      "codigo": "YAPE-2024-TRIAL-003",
+      "activo": true,
+      "descripcion": "Licencia de Prueba",
+      "fecha_expiracion": "2024-06-30"
+    },
+    {
+      "codigo": "DEMO-2024-FREE",
+      "activo": true,
+      "descripcion": "Demo Gratuita",
+      "fecha_expiracion": "2024-12-31"
+    },
+    {
+      "codigo": "YAPE-2024-ENTERPRISE-004",
+      "activo": false,
+      "descripcion": "Licencia Empresarial (Desactivada)",
+      "fecha_expiracion": "2025-12-31"
+    }
+  ],
+  "version": "1.0.0",
+  "ultima_actualizacion": "2024-01-15"
+}
